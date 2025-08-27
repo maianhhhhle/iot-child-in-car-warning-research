@@ -17,3 +17,4 @@
 17. [Development of comprehensive unattended child warning and feedback system in vehicle](https://www.matec-conferences.org/articles/matecconf/pdf/2017/04/matecconf_aigev2017_01008.pdf)
 18. [Thiết bị chống bỏ quên của bộ quốc phòng](https://thietbichongboquen.com/)
 19. [CHILD IN CAR ALARM SYSTEM USING VARIOUS SENSORS](https://eprints.utem.edu.my/id/eprint/14672/1/jeas_0914_1230[1].pdf)
+20. [Advanced child-left-behind warning system based on sensors and gsm]()
