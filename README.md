@@ -14,3 +14,5 @@
 14. [IOT Based Smart Life Saver System for Kids and Objected Tracking](https://www.researchgate.net/profile/Dr-Diaa-Salama-2/publication/348789745_IOT_Based_Smart_Life_Saver_System_for_Kids_and_Objected_Tracking/links/62181482cf3e20571e216998/IOT-Based-Smart-Life-Saver-System-for-Kids-and-Objected-Tracking.pdf)
 15. [Bé 3 tuổi bị bỏ quên trên xe ở Bắc Ninh: Phát hiện sự việc từ chiếc quần bò](https://laodong.vn/xa-hoi/be-3-tuoi-bi-bo-quen-tren-xe-o-bac-ninh-phat-hien-su-viec-tu-chiec-quan-bo-754926.ldo)
 16. [Vụ học sinh Trường Gateway chết trên xe: Người đưa đón bỏ tập huấn](https://tuoitre.vn/vu-hoc-sinh-truong-gateway-chet-tren-xe-nguoi-dua-don-bo-tap-huan-20200114110531877.htm)
+17. [Development of comprehensive unattended child warning and feedback system in vehicle](https://www.matec-conferences.org/articles/matecconf/pdf/2017/04/matecconf_aigev2017_01008.pdf)
+18. [Thiết bị chống bỏ quên của bộ quốc phòng](https://thietbichongboquen.com/)
